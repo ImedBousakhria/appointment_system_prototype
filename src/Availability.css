@@ -1,0 +1,29 @@
+.availability-container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .day-container {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .time-input {
+    margin-bottom: 10px;
+  }
+  
+  .update-button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .update-button:hover {
+    background-color: #45a049;
+  }
+  
